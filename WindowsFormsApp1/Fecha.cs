@@ -12,5 +12,11 @@ namespace WindowsFormsApp1
         int m;
         int y;
 
+        public Fecha()
+        {
+            this.d = 1;
+            this.m = 1;
+            this.y = 1;
+        }
     }
 }
