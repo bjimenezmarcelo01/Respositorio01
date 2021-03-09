@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    public class wfmso
+    public class wfsgt
     {
-        int id;
+        int csgt;
         string desc;
-        string detalle;
     }
 }
