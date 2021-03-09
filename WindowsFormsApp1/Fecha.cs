@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Class1
+    public class Fecha
     {
+        int d;
+        int m;
+        int y;
+
     }
 }
