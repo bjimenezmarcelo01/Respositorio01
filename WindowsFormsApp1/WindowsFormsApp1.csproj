@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PruebaJosueVirusLucas.cs" />
     <Compile Include="wfmso.cs" />
     <Compile Include="wfsgt.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
